@@ -60,7 +60,7 @@ setup(
         "google-cloud-storage",
         "ndg-httpsclient",
         "pyasn1==0.4.8",
-        "pyopenssl==19.1.0",
+        "pyopenssl==26.0.0",
         "requests",
     ],
     entry_points={"console_scripts": ["gsecrets = gsecrets.cli:cli"]},
