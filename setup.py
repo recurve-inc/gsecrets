@@ -59,7 +59,7 @@ setup(
         "google-api-python-client",
         "google-cloud-storage",
         "ndg-httpsclient",
-        "pyasn1==0.6.3",
+        "pyasn1==0.6.4",
         "pyopenssl==19.1.0",
         "requests",
     ],
